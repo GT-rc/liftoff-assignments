@@ -5,6 +5,9 @@ This assignment will get you set up and rolling with a basic project. By the end
 [Project Setup Assignment](https://education.launchcode.org/liftoff/assignments/project-setup/)
 
 ## Submission Instructions
+??  Is it just me, or should there be something in here?
 
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+[Hello World Project Setup Example](https://github.com/GT-rc/hello-world)
